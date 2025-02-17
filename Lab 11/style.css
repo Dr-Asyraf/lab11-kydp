@@ -1,0 +1,22 @@
+.g1 {
+  color: green;
+  display: block;
+  display: none;
+}
+
+#pic1 {
+  height: 150;
+  width: 150;
+  visibility: hidden;
+}
+
+#pic2 {
+  height: 150;
+  width: 150;
+  display: none;
+}
+
+#pic3 {
+  height: 150;
+  width: 150;
+}
